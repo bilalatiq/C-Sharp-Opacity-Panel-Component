@@ -1,0 +1,1 @@
+# C-Sharp-Opacity-Panel-Component
